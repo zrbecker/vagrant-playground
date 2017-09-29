@@ -3,8 +3,8 @@
 The purpose of this repository is to maintain some useful vagrant box
 configurations.
 
-You must have [https://www.vagrantup.com/](Vagrant) and
-[https://www.virtualbox.org/](VirtualBox) installed.
+You must have [Vagrant](https://www.vagrantup.com/) and
+[VirtualBox](https://www.virtualbox.org/) installed.
 
 For example one of the boxes in this repository is a docker server. To set it
 up you enter the following commands
